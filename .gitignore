@@ -1,0 +1,13 @@
+
+# Ignore all text files
+*.pyc
+
+# Ignore virtual env
+.venv
+
+# Ignore config file
+
+es_config.txt
+
+#database file
+db.sqlite3
